@@ -39,6 +39,7 @@ main(List<String> args) {
 }
 
 class Empleado {
+  //La clases no llevan parentesis
 //Variables de Instancia
   var id;
   var nombre;
